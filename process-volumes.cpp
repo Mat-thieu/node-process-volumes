@@ -12,7 +12,6 @@
 #include <devicetopology.h>
 #include <mmdeviceapi.h>
 #include <tchar.h>
-#include <atlstr.h>
 #include <endpointvolume.h>
 #include <audiopolicy.h>
 #include <psapi.h>
